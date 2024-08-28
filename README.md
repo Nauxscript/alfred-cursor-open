@@ -25,10 +25,10 @@ This Alfred workflow allows you to quickly search for local folders and open the
 
 ## Installation / 安装
 
-1. Download the latest release of the workflow from the [releases page](https://github.com/yourusername/alfred-cursor-folder-opener/releases).
+1. Download the workflow file from this repo.
 2. Double-click the downloaded file to install it in Alfred.
 
-1. 从[发布页面](https://github.com/yourusername/alfred-cursor-folder-opener/releases)下载工作流的最新版本。
+1. 从本仓库中下载工作流安装文件。
 2. 双击下载的文件，将其安装到 Alfred 中。
 
 ## Usage / 使用方法
